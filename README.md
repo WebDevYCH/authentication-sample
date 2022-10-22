@@ -64,7 +64,3 @@ $ cd npm run build
 
 ### Demo 
 [Link](https://authentication-sample.herokuapp.com)
-
-
-
-
